@@ -4,7 +4,7 @@
 
 #### <b>Template gotten from:</b> theFont theme
 
-#### <b>UI design gotten from:</b> [BOOKCLUBZ](https://https://bookclubz.com)
+#### <b>UI design gotten from:</b> [BOOKCLUBZ](https://bookclubz.com)
 
 ## APP FEATURES
 
