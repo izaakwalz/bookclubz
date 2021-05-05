@@ -4,6 +4,8 @@
 
 #### <b>Template gotten from:</b> theFont theme
 
+#### <b>UI design gotten from:</b> [BOOKCLUBZ](https://https://bookclubz.com)
+
 ## APP FEATURES
 
 - All datas are being stored in <b>LocalStorage</b>
