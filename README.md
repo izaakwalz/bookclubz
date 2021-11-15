@@ -6,7 +6,7 @@
 
 #### <b>UI design gotten from:</b> [BOOKCLUBZ](https://bookclubz.com)
 
-#### Live Demo [bookclubz](https://bookclubz.netlify.app/home)
+#### Live Demo [bookclubz](https://bookclubz.netlify.app)
 
 ## APP FEATURES
 
