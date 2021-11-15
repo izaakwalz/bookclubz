@@ -6,6 +6,8 @@
 
 #### <b>UI design gotten from:</b> [BOOKCLUBZ](https://bookclubz.com)
 
+#### Live Demo [bookclubz](https://bookclubz.netlify.app/home)
+
 ## APP FEATURES
 
 - All datas are being stored in <b>LocalStorage</b>
